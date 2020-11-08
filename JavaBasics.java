@@ -12,7 +12,7 @@ import java.util.Calendar;
  *
  * @author Jon
  */
-public class javaBasics {
+public class JavaBasics {
 
     /**
      * @param args the command line arguments
